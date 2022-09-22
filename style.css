@@ -1,2 +1,74 @@
-h3
-{font-size: 45px;}
+body{ 
+    background-color: blueviolet;
+}
+#uses{
+    color: aliceblue;
+    font-style:normal ;
+    font-weight: 800 ;
+
+}
+h3{
+
+    font-size: 45px;
+}
+.ul{ 
+    background-color: blue;
+}
+.list-1 { color: aqua;
+    font-size: 25px;
+}
+.listings{
+    color: aqua;
+    font-size: 25px;
+    font-family: Gill Sans;
+}
+.list-2{color: aqua;
+    font-size: 25px;
+    font-family: Gill Sans;
+
+}
+.list-3{
+    color: aqua;
+    font-size: 25px;
+    font-family: Gill Sans;
+}
+.list-4{ 
+    color: aqua;
+    font-size: 25px;
+    font-family: Gill Sans;
+}
+.list-5{
+    color: aqua;
+    font-size: 25px;
+    font-family: Gill Sans;
+}
+.description{
+    font-weight: 800;
+    font-family: Georgia;
+}
+.new
+{color: black;
+}
+.old
+{
+    font-style: italic;
+}
+.pics
+{
+   height: 200px;
+   width: 180px;
+ }
+ a{
+    text-decoration: none;
+text-transform: uppercase; 
+}
+div{
+    text-indent: 20%;
+    text-shadow:4px 2.5px 1.5px rgb(153, 205, 50);
+    letter-spacing: 1px;
+    word-spacing: 20px;
+
+}
+p{
+    line-height: 5px;
+}
